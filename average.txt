@@ -1,0 +1,3 @@
+Bob    Average = 80.0
+Joan    Average = 78.0
+Sally    Average = 84.33333333333333
